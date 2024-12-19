@@ -1,0 +1,14 @@
+
+.img{
+    background-image: url("./photo1.jpg");
+    width: 100vw;
+    height: 100vh;
+color: black;
+}
+
+
+.buttonupdate{
+    height: 30px;
+    width: 70px;
+    cursor: pointer;
+}
